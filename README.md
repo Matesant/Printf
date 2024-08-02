@@ -11,8 +11,6 @@ This repository contains the third project of 42 curriculum, the Printf function
 <h2 align="center">
 	<a href="#about">About</a>
 	<span> · </span>
-	<a href="#index">Index</a>
-	<span> · </span>
 	<a href="#requirements">Requirements</a>
 	<span> · </span>
 	<a href="#instructions">Instructions</a>
@@ -29,9 +27,6 @@ Our printf function does not need to manage a buffer but should return an intege
 `unsigned int` type variables: `%u`
 `hexadecimal int` type variables (both uppercase and lowercase): `%x` and `%X`
 `pointer` type variables: `%p`
-
- ## Index
-- [Structure](#structure)
 
 ### Structure
 The biggest challenge in this project is handling multiple arguments and returning a integer that is correct.
