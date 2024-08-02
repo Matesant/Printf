@@ -10,7 +10,6 @@
     <div class="header-container">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/covers/cover-libft-bonus.png" width="400" alt="Imagem 1"/>
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJiY2ZpcnVtZmtlMXRxY3VscXFwMjd4M29xN3h0eDcycnd4cG9pbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JhwdnrGvfnoXrzi/giphy.webp" width="200" alt="Imagem 2"/>
-	<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/covers/cover-libft-bonus.png" width="400" alt="Imagem 1"/>
     </div>
 </body>
 </html>
