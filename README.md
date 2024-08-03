@@ -19,16 +19,6 @@
 
 This repository contains the third project of 42 curriculum, the Printf function. This projects make we replicate the original [`printf()`](https://es.wikipedia.org/wiki/Printf) function part of `<stdio.h>` library
 
-<h2 align="center">
-	<a href="#about">About</a>
-	<span> · </span>
-	<a href="#requirements">Requirements</a>
-	<span> · </span>
-	<a href="#instructions">Instructions</a>
-	<span> · </span>
-	<a href="#testing">Testing</a>
-</h2>
-
 ## About
 Our printf function does not need to manage a buffer but should return an integer representing the size of the printed output. It needs to support the following types of variables:
 
