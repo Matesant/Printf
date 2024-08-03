@@ -49,7 +49,7 @@ The functions are written in __C language__ and need the `gcc` compiler, with `<
 
 ### 1. Compiling the archives
 
-To compile the proiect, go to its path and run:
+To compile the project, go to its path and run:
 
 For __mandatory__ functions:
 ```
